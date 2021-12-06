@@ -1,4 +1,6 @@
 # CS305_Final
+
+**I dont know if this project is possible for you -WS
 This project will involve multiple steps:
    1. designing code
    2. testing the code
